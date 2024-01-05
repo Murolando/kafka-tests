@@ -1,2 +1,2 @@
-# kafka-tests
-my tests with kafka
+#  Мои эксперименты с kafka 
+
